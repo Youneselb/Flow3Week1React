@@ -7,7 +7,7 @@ const {firstName, email} = person;
 
 
 function App2() {
-    console.log(...males,"Kurt",...females,"Tina");
+    console.log(...males,"Peter",...females,"Janne");
    
     return (
     <div className="App">
